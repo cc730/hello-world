@@ -14,4 +14,4 @@ I became a volunteer for Girl Scouts, Boy Scouts and our local arts council and 
 I got a job working the reference desk at our local library.
 I mentioned that I have some experience with WordPress/HTML/CSS and take over updating the library's old website.
 I redesign that website into a modern, section 508-compliant, responsive, Drupal site.
-
+I redesign a local database maintained by the library. 
